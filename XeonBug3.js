@@ -949,12 +949,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'script':
             case 'scriptbot':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `*Script:* https://youtu.be/Geo3tWsceVI`,
+                    text: `*Script:* https://youtu.be/TnUAvasM-1k`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `SCRIPT OF ${botname} is on YouTube @DGXeon`,
+                            body: `SCRIPT OF ${botname} is on YouTube @Zainibhaii`,
                             thumbnailUrl: 'https://i.imgur.com/j8Eqv2q.jpeg',
                             sourceUrl: global.link,
                             mediaType: 1,
