@@ -1,10 +1,10 @@
 //base by DGXeon (Xeon Bot Inc.)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//YouTube: @Zainibhaii
+//Instagram: zainibhaii
+//Telegram: t.me/darkheartoffical
+//GitHub: @Zainnawab69
+//WhatsApp: +923074060856
+//want more free bot scripts? subscribe to my youtube channel: https://youtu.be/TnUAvasM-1k
 
 const {
    spawn
