@@ -19,4 +19,4 @@ pkg install wget
 
 pkg install imagemagick -y
 
-yarn install
+
