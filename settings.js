@@ -29,7 +29,7 @@ global.themeemoji = '🪀'
 global.wm = "𝐙𝐀𝐈𝐍 Bot Inc."
 
 //theme link
-global.link = 'https://chat.whatsapp.com/KhZQtcBal1yIQJGvAAWbAC'
+global.link = 'https://chat.whatsapp.com/Eytp018ACaSFOuBGXAreco'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
