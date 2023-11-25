@@ -22,7 +22,7 @@ global.botname = '𝐙𝐀𝐈𝐍✯𝐍𝐚𝐰𝐚𝐛𝐙𝐚𝐚𝐃𝐚�
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '𝐙𝐀𝐈𝐍✯𝐍𝐚𝐰𝐚𝐛𝐙𝐚𝐚𝐃𝐚𝐚✯𝘽𝙊𝙏\n\nContact: +923074060856'
+global.author = '𝐙𝐀𝐈𝐍✯𝐃𝐀𝐑𝐊 𝐇𝐄𝐀𝐑𝐓🖤✯𝘽𝙊𝙏\n\nContact: +923074060856'
 
 //console view/theme
 global.themeemoji = '🪀'
