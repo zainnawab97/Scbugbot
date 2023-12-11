@@ -18,7 +18,7 @@ global.location = "India, Mizoram, Aizawl"
 
 global.ownernumber = '923074060856'  //creator number
 global.ownername = 'DARK HEART🖤' //owner name
-global.botname = '𝐙𝐀𝐈𝐍✯𝐍𝐚𝐰𝐚𝐛𝐙𝐚𝐚𝐃𝐚𝐚✯𝘽𝙊𝙏 ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.botname = '𝐙𝐀𝐈𝐍✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏 ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
